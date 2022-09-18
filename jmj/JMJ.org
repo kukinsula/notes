@@ -1,10 +1,22 @@
 * Cours des Mines
 
-** L'énergie quantifie le changement d'état de notre environnement
-** L'énergie est régie par des lois physiques
-** Loi de conservation
+** Définitions
 
-énergie de l'environnement est transformée par un convertisseur
+- L'énergie quantifie le changement d'état de notre environnement
+- « capacité d'un corps ou d'un système à
+produire du travail mécanique ou son équivalent »
+
+Ce changement d'état peut être un mouvement, un rayonnement électromagnétique, de la chaleur, réaction chimique,  ...
+
+** Lois physiques
+
+L'énergie est régie par des lois physiques.
+
+*** Loi de conservation
+
+L'énergie totale d'un système isolé est invariante au cours du temps.
+
+Énergie de l'environnement est transformée par un convertisseur, ce convertisseur convertie une énergie qui était déjà présente dans l'environnement.
 
 ** Énergie primaires
 
@@ -12,7 +24,7 @@ La nourriture et le soleil permettent à l'Homme de vivre, de fournir de la chal
 
 ** Convertisseurs
 
-Pour avoir plus d'énergie on utilise des convertisseurs : l'Hommes, les animaux puis les Machines
+Pour avoir plus d'énergie on utilise des convertisseurs : l'Hommes, les animaux puis les Machines.
 
 *** Exosquelette : Armée de machines
 
@@ -21,8 +33,8 @@ Elles utilisé toutes de l'énergie.
 
 ** Énergie
 
-Exprimée en joules (SI).
-Le Wh permet d'exprimer dans de plus petites valeurs.
+Exprimée en Joules [M·L 2·T −2] (SI).
+Le Wh permet d'exprimer l'énergie en de plus petites valeurs.
 La Tonne équivalent pétrole : l'équivalent de l'énergie nécessaire en brûlant une tonne de pétrole.
 
 ** Calcul d'une énergie fournit
@@ -114,7 +126,7 @@ Sans énergie abondante cette augmentation de la population n'aurait pas été p
 
 ** Rapport de force
 
-Les énergies fossiles sont majoritaires ET ont plus augmenté leur production que les ENR.
+Les énergies fossiles sont majoritaires ET ont plus augmenté leur production que toutes les ENR.
 
 ** Prix
 
@@ -123,15 +135,21 @@ Si rare alors plus cher. Mais le prix du petrol ne dépend pas de son abondance.
 ** Prix nourriture
 
 Le prix de la nourriture à diviser par 10
-Tous les services autour de la nourriture eux ont augmenté
+Tous les services autour de la nourriture ont, eux, augmenté
 
-** Transport
-*** Plus c'est moderne plus ça consomme : la voiture consomme moins qu'un avion.
-*** Plus loin, plus vite, moins cher
+** Transports
 
-La marche,
-Le cheval,
-Le train,
-La voiture (dominant depuis 1950)
+*** Plus c'est moderne plus ça consomme
 
-*** Plus d'énergie = plus de villes et plus grandes
+Permet d'aller plus loin, plus vite, moins cher
+marche < cheval < train < voiture < avion
+
+** Plus d'énergie = plus de villes et plus grandes
+
+** Vacances
+
+Les modes de vacances ont évolué : le tourisme consomme encore plus d'énergie et émettent alors encore plus de CO²
+Les prix de billet d'avion on diminué
+
+** Le pétrole
+Le pétrole est à la base de la chimie organique, ce qui a permis de fabriqué tous les produits en plastique. On en trouve partout dans un maison.
