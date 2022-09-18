@@ -1,0 +1,137 @@
+* Cours des Mines
+
+** L'énergie quantifie le changement d'état de notre environnement
+** L'énergie est régie par des lois physiques
+** Loi de conservation
+
+énergie de l'environnement est transformée par un convertisseur
+
+** Énergie primaires
+
+La nourriture et le soleil permettent à l'Homme de vivre, de fournir de la chaleur et du travail
+
+** Convertisseurs
+
+Pour avoir plus d'énergie on utilise des convertisseurs : l'Hommes, les animaux puis les Machines
+
+*** Exosquelette : Armée de machines
+
+Transport, synthétiseur, raffinerie, plateforme pétrolière, extrudeur, réseau, ...
+Elles utilisé toutes de l'énergie.
+
+** Énergie
+
+Exprimée en joules (SI).
+Le Wh permet d'exprimer dans de plus petites valeurs.
+La Tonne équivalent pétrole : l'équivalent de l'énergie nécessaire en brûlant une tonne de pétrole.
+
+** Calcul d'une énergie fournit
+
+E = m * G * h
+
+** Exemples
+*** Un homme peut fournir 100kWh/an avec ses jambes
+*** 1L de pétrole = 2-4kWh
+*** Une homme avec ses bras = 10kWh/an
+*** Or le pétrole est beaucoup moins cher  : 500-5000 fois moins
+*** Même des esclaves sont moins efficaces que le pétrole
+** Loi de conversation
+
+Utiliser de l'énergie impose que cette énergie était déjà présente
+
+** Énergie propres ou sales
+
+Choisir une énergie c'est choisir les contreparties, pas de les supprimer
+
+** Prix
+
+Les énergies primaires sont gratuites : eau, gaz, uranium, pétrole...
+Ce qui est payant est les hommes qui ont permis l'extraction de cette énergie.
+Si une énergie est difficile à extraire alors elle sera plus cher. Le pétrole est facile à extraire.
+
+** Efficacité
+
+Plus efficace de brûler 3 ml de pétrole qu'une éolienne.
+0.3 centimes contre 25-50 centimes.
+De plus l'éolienne ne tourne pas H24, l'éolienne doit être construite avec des énergies fossiles.
+
+*** ENR : énergie renouvelable
+
+La marine à voile, Agriculture, Construire des routes, Industrie. On a tout transformé pour être plus efficace.
+
+On ne retournera pas à ces énergie à consommation constante.
+
+*** Convertisseurs
+
+Homme 100W dans les jambes, 10W dans les bras.
+Un tracteur 60kW, 600 paires de bras
+Pelleteuse 100kW, 10000 paires de bras
+Camion 400kW
+Avion 100MW, 1000000 de paires de bras
+
+** Énergie primaires
+*** Bois
+
+Alimenter des poils, des forges, machines à vapeur
+On consomme 5000kWh de bois par personne
+
+*** Charbon
+
+Le charbon de bois puis de terre.
+Toujours autant consommé depuis 1 siècle.
+Alimente les Centrales électrique pour les 2/3
+
+*** Pétrole
+
+N'a pas remplacé le charbon.
+Meilleur ratio d'énergie transportée par unité de volume, stockage et transport facile.
+
+Arrêt soudain de la quantité disponible, prix qui baisse brusquement.
+
+*** Gaz
+*** Hydroélectricité
+*** Énergie renouvelable
+** Machine de carnot
+** 20MWh par personne par an
+
+Équivalent à 200 esclaves
+À 7 milliards d'individus équivalent à 400 milliards d'individus.
+
+** Énergie fossile
+
+Restes de vie ancienne : charbon, gaz, pétrole.
+Ça domine l'approvisionnement mondial
+
+** TODO Ordre de grandeur
+
+Tableau des énergies des biens d'une maison
+
+** La population
+
+Fin de la dernière période glacière il y'a 10000-12000 ans : permet la sédentarisation de l'homme.
+L'espérance de vie augmente.
+Sans énergie abondante cette augmentation de la population n'aurait pas été possible.
+
+** Rapport de force
+
+Les énergies fossiles sont majoritaires ET ont plus augmenté leur production que les ENR.
+
+** Prix
+
+Si rare alors plus cher. Mais le prix du petrol ne dépend pas de son abondance.
+
+** Prix nourriture
+
+Le prix de la nourriture à diviser par 10
+Tous les services autour de la nourriture eux ont augmenté
+
+** Transport
+*** Plus c'est moderne plus ça consomme : la voiture consomme moins qu'un avion.
+*** Plus loin, plus vite, moins cher
+
+La marche,
+Le cheval,
+Le train,
+La voiture (dominant depuis 1950)
+
+*** Plus d'énergie = plus de villes et plus grandes
